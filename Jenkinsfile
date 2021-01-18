@@ -14,6 +14,7 @@ pipeline {
 
     environment {
 	AWS_REGION = "eu-west-3"
+	}
     
     stages {
 	stage('Init Terraform directory'){
