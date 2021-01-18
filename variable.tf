@@ -12,7 +12,7 @@ variable "path" {
 
 variable "instance_name" {
   type = string
-  description = "Instance name"
+  description = "Instance_Enzo"
 }
 
 variable "region" {
